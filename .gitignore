@@ -1,0 +1,17 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/_net-wallet-sdk-master/v16/Server/sqlite3/db.lock
+/Byte.Core/bin
+/Byte.Api/bin/Byte.Core.pdb
+/Byte.Api/bin/Byte.Api.pdb
+/Byte.Api/bin/Byte.Api.dll.config
+/Byte.Api/bin/Byte.Api.dll
+/Byte.Api/bin/Newtonsoft.Json.xml
+/Byte.Api/bin/log4net.xml
+/Byte.Form.Api/bin/SDKDebug
+*.rar
+/Byte.Form.Api/bin/Debug/TermLog
+/Byte.Form.Api/bin/Debug
+/.vs/_net-wallet-sdk-master/v16/Server/sqlite3

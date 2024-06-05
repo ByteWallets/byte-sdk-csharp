@@ -1,0 +1,4 @@
+D:\Git2019\walletSDK_C\_net-wallet-sdk-master\Byte.Form.Api\obj\Debug\Byte.Form.Api.csprojAssemblyReference.cache
+D:\Git2019\walletSDK_C\_net-wallet-sdk-master\Byte.Form.Api\obj\Debug\Byte.FormDemo.Api.Form1.resources
+D:\Git2019\walletSDK_C\_net-wallet-sdk-master\Byte.Form.Api\obj\Debug\Byte.FormDemo.Api.Properties.Resources.resources
+D:\Git2019\walletSDK_C\_net-wallet-sdk-master\Byte.Form.Api\obj\Debug\Byte.Form.Api.csproj.GenerateResource.cache

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Byte.Api",
+    "\\Byte.Api\\Controller",
+    "\\Byte.Core",
+    "\\Byte.Core\\Http",
+    "\\Byte.Core\\Http\\Client",
+    "\\Byte.Form.Api"
+  ],
+  "SelectedNode": "\\Byte.Form.Api\\app.config",
+  "PreviewInSolutionExplorer": false
+}
